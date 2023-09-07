@@ -426,20 +426,8 @@ user\$: sed \'/Storm/,/Fellowship/d\' books.txt
 معین کنید که کدام بخش از خروجی را می‌خواهید ببینید و به همین ترتیب به
 تمرین ادامه دهید.
 
-[]{#anchor}*YouTube:
-*[*https://www.youtube.com/@wolandsmachine*](https://www.youtube.com/@wolandsmachine)
 
-GitHub: https://github.com/wolandark
-
-*Email: *[*contact-woland@proton.me*](mailto:contact-woland@proton.me)
-
-Telegram: https://t.me/inlovedwithapenguin
-
-*YouTube:
-*[*https://www.youtube.com/@wolandsmachine*](https://www.youtube.com/@wolandsmachine)
-
-GitHub: https://github.com/wolandark
-
-*Email: *[*contact-woland@proton.me*](mailto:contact-woland@proton.me)
-
-Telegram: https://t.me/inlovedwithapenguin
+- [YouTube](https://www.youtube.com/@wolandsmachine)
+- [GitHub](https://github.com/wolandark)
+- [Email](contact-woland@proton.me)
+- [Telegram](https://t.me/inlovedwithapenguin)
